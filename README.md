@@ -2,7 +2,7 @@
 <html lang = "en">
 
 <head>
-        <title> Edith Cortez Lopez </title>
+        <title> "Edith Cortez Lopez" </title>
 </head>
 
 </html>
